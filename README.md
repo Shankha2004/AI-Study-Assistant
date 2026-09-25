@@ -2,9 +2,13 @@
 
 ## 📸 Project Screenshots
 <img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/bfab4854-edcb-4726-a335-1742035a44a0" />
+
 ### PDF Summary
+
 <img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/7b485334-ecf3-41fd-993d-6524f4a5d365" />
+
 ### Quiz Generation
+
 <img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/1d138b79-b460-473b-87e1-87216162634f" />
 
 ## About The Project
